@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  emqx:
+  - apiVersion: v2
+    appVersion: v4.1.4
+    created: "2020-09-03T17:27:32.757645+09:00"
+    description: A Helm chart for EMQ X mqtt broker
+    digest: 3f0eb42eda15e16af2c692eac3a705fbe8607bad9f7d66b61e1b019392ffe105
+    name: emqx
+    type: application
+    urls:
+    - emqx-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-09-03T17:27:32.756668+09:00"
