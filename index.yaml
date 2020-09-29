@@ -3,7 +3,20 @@ entries:
   emqx:
   - apiVersion: v2
     appVersion: 4.2.0
-    created: "2020-09-14T23:15:00.900545+09:00"
+    created: "2020-09-30T08:44:45.587147+09:00"
+    description: A Helm chart for EMQ X mqtt broker
+    digest: 7d31e65db8765fcccd317807620b4d6f8c6d1775e27702bc343c6fef741f5fa0
+    home: https://github.com/zoeponta/emqx-chart
+    maintainers:
+    - name: zoeponta
+    name: emqx
+    type: application
+    urls:
+    - https://zoeponta.github.io/charts/emqx/emqx-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
+    appVersion: 4.2.0
+    created: "2020-09-30T08:44:45.586259+09:00"
     description: A Helm chart for EMQ X mqtt broker
     digest: 5c58e423bc97a5086ddadd03051c8f112465b39ad9d33891be20ee525c50a27d
     name: emqx
@@ -13,17 +26,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: v4.1.4
-    created: "2020-09-14T23:15:00.898715+09:00"
-    description: A Helm chart for EMQ X mqtt broker
-    digest: 3f0eb42eda15e16af2c692eac3a705fbe8607bad9f7d66b61e1b019392ffe105
-    name: emqx
-    type: application
-    urls:
-    - https://zoeponta.github.io/charts/emqx-0.0.1.tgz
-    version: 0.0.1
-  - apiVersion: v2
-    appVersion: v4.1.4
-    created: "2020-09-14T23:15:00.899514+09:00"
+    created: "2020-09-30T08:44:45.584186+09:00"
     description: A Helm chart for EMQ X mqtt broker
     digest: 3f0eb42eda15e16af2c692eac3a705fbe8607bad9f7d66b61e1b019392ffe105
     name: emqx
@@ -31,4 +34,4 @@ entries:
     urls:
     - https://zoeponta.github.io/charts/emqx/emqx-0.0.1.tgz
     version: 0.0.1
-generated: "2020-09-14T23:15:00.897708+09:00"
+generated: "2020-09-30T08:44:45.581255+09:00"
